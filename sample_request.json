@@ -1,0 +1,28 @@
+{
+  "narratives": {
+    "problem_definition": "예비창업자가 지원사업을 찾고 신청하는 과정이 복잡하고 정보가 분산되어 있습니다.",
+    "solution_description": "자가진단과 AI 기반 맞춤 지원사업 추천을 한 번에 제공하는 웹 서비스입니다.",
+    "differentiation_strategy": "진단 결과와 지원사업 매칭을 통합한 원스톱 경험을 제공합니다.",
+    "value_proposition": "진단만으로도 실행 가능한 다음 액션과 지원사업 후보를 제시합니다.",
+    "revenue_model": "B2C 구독 및 기관·액셀러레이터 제휴 수익을 검토 중입니다.",
+    "expansion_strategy": "지역 창업센터·대학 창업지원단과 파트너십을 확대합니다."
+  },
+  "quantitative_metrics": {
+    "current_assets": 500,
+    "monthly_overhead": 50,
+    "interview_scale": "5회 이상~10회 미만",
+    "monetization_stage": "구매 의향을 말한 고객 있음",
+    "team_roles": {
+      "pm_planning": true,
+      "design": true,
+      "developer": true,
+      "marketing_sales": false
+    },
+    "has_mvp_url": true,
+    "mvp_url": "https://example.com/mvp"
+  },
+  "startup_status": "예비창업자",
+  "item_name": "Startup Fit AI",
+  "selected_sectors": ["IT·SW", "플랫폼"],
+  "location": "서울"
+}
